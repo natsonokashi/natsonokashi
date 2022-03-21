@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "transform-runtime",
+    "syntax-async-functions",
+    "syntax-object-rest-spread",
+    "transform-object-rest-spread",
+    "transform-class-properties",
+    "transform-async-to-generator"
+  ],
+  "presets": [
+    "es2015",
+    "react"
+  ]
+
+}

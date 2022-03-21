@@ -1,0 +1,8 @@
+.DS_Store
+/.idea
+/node_modules
+/static
+/webpack-assets.json
+/build
+/lib
+npm-debug.log
